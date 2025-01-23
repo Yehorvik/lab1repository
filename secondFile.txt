@@ -1,8 +1,8 @@
 hello
 this
 is
-another
-10 lines
+another this git_1
+10 lines modified lines
 of
 possible
 code
