@@ -4,7 +4,7 @@ this two lines
 have been modified
 text
 that
-takes
-10
+these two have been 
+modified also
 lines
 of text
