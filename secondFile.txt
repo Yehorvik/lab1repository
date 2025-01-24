@@ -1,8 +1,6 @@
 hello
 this
 is
-another this lines 
-10 lines modified in git_1
 another this git_1
 10 lines modified lines
 of

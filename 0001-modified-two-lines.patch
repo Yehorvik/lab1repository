@@ -1,0 +1,26 @@
+From e8d386496c56bb4d081a3cba3a2a2c0062e0671e Mon Sep 17 00:00:00 2001
+From: IYGR <ilchenko1egor2@gmail.com>
+Date: Fri, 24 Jan 2025 03:21:50 +0200
+Subject: [PATCH] modified two lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 4616599..a33ecf4 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ Here
+ should
+-be
+-some
++this two lines
++have been modified
+ text
+ that
+ takes
+-- 
+2.34.1.windows.1
+
