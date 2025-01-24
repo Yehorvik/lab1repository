@@ -1,5 +1,5 @@
-Here
-should
+Those lines have been
+modified in folder 2
 this two lines
 have been modified
 text
